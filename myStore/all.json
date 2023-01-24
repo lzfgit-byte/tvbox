@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "我的整合",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/lzfgit-byte/tvboxrepforme@main/myStore/allJsonSub/myStore.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/lzfgit-byte/tvboxrepforme@1.0.2/myStore/allJsonSub/myStore.json"
     }
   ]
 }
