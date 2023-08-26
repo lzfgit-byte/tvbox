@@ -1,12 +1,16 @@
 {
   "urls":[
     {
-      "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-      "name": "小苹果"
+      "url": "http://饭太硬.top/tv",
+      "name": "轻量快"
     },
     {
-      "url": "https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt",
-      "name": "🎮休闲戏曲娱乐"
+      "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "name": "云盘搜索"
+    },
+    {
+      "url": "http://bbs.itvba.cn/tv/video/tv4k.json",
+      "name": "相声小品娱乐"
     },
     {
       "url": "https://raw.liucn.cc/box/m.json",
@@ -17,20 +21,8 @@
       "name": "2hacc"
     },
     {
-      "url": "https://raw.gitmirror.com/2hacc/TVBox/main/xiaoya.json",
-      "name": "2haccXiaoYa"
-    },
-    {
-      "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/adult.json",
-      "name": "蜂蜜h"
-    },
-    {
       "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
       "name": "蜂蜜"
-    },
-    {
-      "url": "https://raw.gitmirror.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E6%BA%90",
-      "name": "mengzehe"
     }
   ]
 
