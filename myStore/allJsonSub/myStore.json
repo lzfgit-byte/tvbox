@@ -11,6 +11,18 @@
     {
       "url": "https://raw.liucn.cc/box/m.json",
       "name": "tvbox_m"
+    },
+    {
+      "url": "https://raw.gitmirror.com/mengzehe/TVBox/main/%E8%87%AA%E7%94%A8%E6%BA%90",
+      "name": "小蜜蜂"
+    },
+    {
+      "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
+      "name": "蜂蜜正"
+    },
+    {
+      "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/adult.json",
+      "name": "蜂蜜b正"
     }
   ]
 

@@ -3,6 +3,14 @@
     {
       "sourceName": "我的整合",
       "sourceUrl": "https://raw.gitmirror.com/lzfgit-byte/tvboxrepforme/main/myStore/allJsonSub/myStore.json"
+    },
+    {
+      "sourceName": "单仓",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93"
+    },
+    {
+      "sourceName": "飞",
+      "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/18/18%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93"
     }
   ]
 }
