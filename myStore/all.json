@@ -2,20 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "我的整合",
-      "sourceUrl": "https://raw.gitmirror.com/lzfgit-byte/tvboxrepforme/main/myStore/allJsonSub/myStore.json"
-    },
-    {
-      "sourceName": "有毒资源",
-      "sourceUrl": "https://tv.youdu.fan:666"
+      "sourceUrl": "https://gh-proxy.com/github.com/lzfgit-byte/tvbox/blob/main/myStore/allJsonSub/myStore.json"
     },
     {
       "sourceName": "一木",
-      "sourceUrl": "https://raw.gitmirror.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
+      "sourceUrl": "https://gh-proxy.com/github.com/xianyuyimu/TVBOX-/blob/main/TVBox/%E4%B8%80%E6%9C%A8%E5%A4%9A%E7%BA%BF%E8%B7%AF.json"
     },
-    {
-      "sourceName": "htest",
-      "sourceUrl": "https://raw.gitmirror.com/lzfgit-byte/tvboxrepforme/main/myStore/allJsonSub/18.json"
-    }
-
   ]
 }
