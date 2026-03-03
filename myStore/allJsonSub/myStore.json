@@ -1,14 +1,22 @@
 {
-  "urls": [
-    {
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
-      "name": "🚀饭太硬推荐bnp"
-    },
-    {
+    "urls": [
+        {
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "name": "🚀饭太硬推荐bnp"
+        },
+        {
+            "url": "http://www.饭太硬.top/tv/",
+            "name": "🚀饭太硬推荐网址top"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "电视"
+        },
+        {
             "url": "http://肥猫.com",
             "name": "🚀1-肥猫"
         },
-          {
+        {
             "url": "http://xhztv.top/4k.json",
             "name": "🚀3-小盒子4K"
         },
@@ -24,7 +32,7 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
             "name": "🚀6-FongMI线路"
         },
-          {
+        {
             "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀7-香雅情"
         },
@@ -32,7 +40,7 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀8-巧计线路"
         },
-         {
+        {
             "url": "http://tv.nxog.top/m/",
             "name": "🚀9-欧歌4K"
         },
@@ -56,5 +64,5 @@
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
         }
-  ]
+    ]
 }
